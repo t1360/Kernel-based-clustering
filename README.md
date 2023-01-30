@@ -2,18 +2,26 @@
 
 This repository is created for the machine learning course project about Kernel-based clustering.
 
-## The project: 
+* Project name: 
 
 kernel-based clustering
 
-## The referenced article:
+* The referenced article:
 
-A Tutorial on Spectral Clustering, Ulrike von Luxburg,Max Planck Institute for Biological Cybernetics , Spemannstr. 38, 72076 T¨ubingen, Germany
+Title : A Tutorial on Spectral Clustering
+
+Published: 22 August 2007
+
+Author : Ulrike von Luxburg ,Max Planck Institute for Biological Cybernetics , Spemannstr. 38, 72076 T¨ubingen, Germany
+
+Journal : Statistics and Computing volume 17, pages395–416 (2007)
+
+Citations : 5389 
 
 https://link.springer.com/article/10.1007/s11222-007-9033-z
 
 
-## The content is based on the code written on the LinkedIn page below:
+* The content is based on the code written on the LinkedIn page below:
 
 Kernel K-Means vs Spectral Clustering (Implementation using Python)
 
