@@ -5,7 +5,6 @@ This repository is created for the machine learning course project about Kernel-
 * Project name:  kernel-based clustering
 
 * The referenced article:
-
       Title : A Tutorial on Spectral Clustering
       Published: 22 August 2007
       Author : Ulrike von Luxburg ,Max Planck Institute for Biological Cybernetics , Spemannstr. 38, 72076 T¨ubingen, Germany
